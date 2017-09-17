@@ -76,3 +76,5 @@ db.order.aggregate(
 	"sex" : "M",
 	"phone" : "114"
 }
+http://www.jb51.net/article/87823.htm
+使用聚合框架对集合中的文档进行变换和组合，可以用多个构件创建一个管道(pipeline)，用于对一连串的文档进行处理。这些构件包括筛选(filtering),投射(projecting),分组(grouping),排序(sorting),限制(limiting),跳过(skipping)。
